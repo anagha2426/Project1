@@ -1,0 +1,26 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "This is the project for git ",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anagha2426/Project1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anagha2426/Project1/issues"
+  },
+  "homepage": "https://github.com/anagha2426/Project1#readme",
+
+  
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "nightwatch": "^1.1.13",
+    "selenium-server": "^3.141.59"
+  }
+}
